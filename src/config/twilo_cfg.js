@@ -1,4 +1,4 @@
 export default {
-    sid:process.env.TW_SID,
-    token:process.env.TW_TOKEN,
+    sid:"AC2e3eeb558076f7139aa2768dbafd0493",
+    token:"d894b935b66872642215144e0f12da81",
 };
